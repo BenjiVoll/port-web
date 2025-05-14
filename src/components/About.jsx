@@ -5,7 +5,7 @@ function About() {
     <section id="about" className="about">
       <div className="container">
         <h2>Sobre mí</h2>
-        <p>Soy un desarrollador front-end con experiencia en [menciona tus años de experiencia] y un fuerte enfoque en [menciona tus principales tecnologías o áreas de interés]. ... [Sigue con más detalles].</p>
+        <p>Soy un desarrollador junior web, con experiencias en tecnologias/stack MERN, PERN.</p>
         <div className="skills">
           <h3>Habilidades</h3>
           <ul>
