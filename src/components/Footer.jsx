@@ -3,9 +3,7 @@ import React from 'react';
 function Footer() {
   return (
     <footer>
-      <div className="container">
-        <p>&copy; 2025 [Benjamin Vollrath]. Todos los derechos reservados.</p>
-      </div>
+      © 2026 <span>Benjamin Vollrath</span>. Todos los derechos reservados.
     </footer>
   );
 }
