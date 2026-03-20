@@ -23,14 +23,15 @@ function About() {
         <div className="about-content">
           {/* Bio */}
           <div className="about-text">
-            <h3>¡Hey, qué tal! 👋</h3>
+            <h3>Desarrollador Full Stack</h3>
             <p>
-              Soy Benjamin, un desarrollador Full Stack basado en Chile, especializado en
-              construir aplicaciones web modernas y escalables con los stacks MERN y PERN.
+              Soy Benjamin Vollrath, desarrollador Full Stack enfocado en construir
+              aplicaciones web modernas, escalables y con una experiencia de usuario cuidada.
             </p>
             <p>
-              Me apasiona crear productos digitales con buena UX, código limpio y un diseño
-              que impacte desde el primer vistazo. Siempre estoy aprendiendo cosas nuevas.
+              Trabajo con los stacks MERN y PERN, desde el diseño de interfaces hasta el
+              despliegue en producción. Me impulsa entregar software que funcione bien y
+              se vea bien.
             </p>
 
             <div className="about-stats">
