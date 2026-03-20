@@ -25,8 +25,8 @@ function About() {
           <div className="about-text">
             <h3>¡Hey, qué tal! 👋</h3>
             <p>
-              Soy Benjamin, un desarrollador Full Stack junior basado en Chile, especializado en
-              construir aplicaciones web modernas y escalables con el stack MERN y PERN.
+              Soy Benjamin, un desarrollador Full Stack basado en Chile, especializado en
+              construir aplicaciones web modernas y escalables con los stacks MERN y PERN.
             </p>
             <p>
               Me apasiona crear productos digitales con buena UX, código limpio y un diseño
