@@ -1,4 +1,5 @@
 import React from 'react';
+import { useScrollReveal } from '../hooks/useScrollReveal';
 
 const contactLinks = [
   {
@@ -32,8 +33,9 @@ const contactLinks = [
 ];
 
 function Contact() {
+  const ref = useScrollReveal();
   return (
-    <section id="contact" className="contact">
+    <section id="contact" className="contact reveal-section" ref={ref}>
       <div className="container">
         <h2 className="section-title">Contacto</h2>
         <p className="section-subtitle">
