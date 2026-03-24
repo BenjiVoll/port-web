@@ -11,7 +11,7 @@ const skills = [
   { name: 'Git', color: '#f05032', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' },
   { name: 'Express.js', color: '#aaaaaa', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' },
   { name: 'Vite', color: '#bd34fe', icon: 'https://vitejs.dev/logo.svg' },
-  { name: 'Microsoft 365', color: '#d83b01', icon: 'https://cdn.simpleicons.org/microsoftoffice/d83b01' },
+  { name: 'Microsoft 365', color: '#d83b01', icon: 'https://img.icons8.com/color/48/microsoft-office-2019.png' },
 ];
 
 function About() {
