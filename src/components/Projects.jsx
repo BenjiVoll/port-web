@@ -1,5 +1,4 @@
 import React from 'react';
-import { useScrollReveal } from '../hooks/useScrollReveal';
 
 const base = import.meta.env.BASE_URL;
 
@@ -73,9 +72,8 @@ const ExternalIcon = () => (
 );
 
 function Projects() {
-  const ref = useScrollReveal();
   return (
-    <section id="projects" className="projects reveal-section" ref={ref}>
+    <section id="projects" className="projects">
       <div className="container">
         <h2 className="section-title">Mis Proyectos</h2>
         <p className="section-subtitle">Lo que he construido hasta ahora</p>

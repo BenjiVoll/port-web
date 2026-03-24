@@ -1,5 +1,4 @@
 import React from 'react';
-import { useScrollReveal } from '../hooks/useScrollReveal';
 
 const skills = [
   { name: 'JavaScript', color: '#f7df1e', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' },
@@ -16,9 +15,8 @@ const skills = [
 ];
 
 function About() {
-  const ref = useScrollReveal();
   return (
-    <section id="about" className="about reveal-section" ref={ref}>
+    <section id="about" className="about">
       <div className="container">
         <h2 className="section-title">Sobre mí</h2>
         <p className="section-subtitle">Un poco de mi historia y mis herramientas favoritas</p>
