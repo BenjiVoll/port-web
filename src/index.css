@@ -402,6 +402,7 @@ section {
    =========================== */
 .about {
   background: linear-gradient(180deg, var(--bg-base) 0%, var(--bg-surface) 100%);
+  padding-top: 48px;
 }
 
 .about-content {
