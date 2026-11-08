@@ -9,7 +9,7 @@ const projects = [
     category: 'Full Stack',
     description:
       'Plataforma web, tienda e-commerce y cotizador con panel de administración.',
-    image: `${base}project-eiken.png`,
+    image: `${base}project-eiken-home.jpg`,
     tags: ['React', 'Node.js', 'PostgreSQL', 'Express'],
     github: 'https://github.com/BenjiVoll/eiken_web',
     demo: 'https://benjivoll.github.io/eiken_web/',
