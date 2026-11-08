@@ -20,8 +20,7 @@ const projects = [
     category: 'Web App',
     description:
       'WebApp para organizar y distribuir los horarios del colegio Christian College Hualqui.',
-    image: null,
-    placeholderType: 'schedule',
+    image: `${base}project-horarios.jpg`,
     tags: ['React', 'JavaScript', 'CSS'],
     github: 'https://github.com/BenjiVoll/horarios-colegio-2027',
     demo: null,
